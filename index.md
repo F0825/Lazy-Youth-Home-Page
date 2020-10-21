@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 懒懒散散的清楚的主页
 
 You can use the [editor on GitHub](https://github.com/F0825/Lazy-Youth-Home-Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
